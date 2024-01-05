@@ -1,8 +1,5 @@
--- to create a new database
-CREATE DATABASE customersdb;
-
 -- to use database
-use customersdb;
+use bsppwnqmtqjrqskdc97u;
 
 -- creating a new table
 CREATE TABLE customer (
