@@ -28,3 +28,4 @@ Email de contacto -> JonSmithSoluciones@proton.me
 
 Á & A a.k.a Jon Smith Soluciones
 
+![JonSmithSoluciones](https://github.com/JonSmithSoluciones/ACPD-Cloud/assets/155761479/1a99582f-6aa9-4458-8831-1f1a6d17b49f)
